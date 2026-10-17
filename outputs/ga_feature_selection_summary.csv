@@ -1,0 +1,5 @@
+metric,value
+Selected features,"age, tenure, balance, products_number, active_member, estimated_salary"
+Selected-feature CV F1,0.5843288821820335
+All-feature CV F1,0.5627643730877562
+GA evaluations,59
