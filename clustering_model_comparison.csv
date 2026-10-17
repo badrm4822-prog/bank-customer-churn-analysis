@@ -1,0 +1,3 @@
+model,configuration,silhouette_score,use_in_project
+K-Medoids,k=4,0.12455680483222434,Primary customer segmentation
+Hierarchical,"complete, k=2",0.198960207948052,Benchmark / validation
