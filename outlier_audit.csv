@@ -1,7 +1,0 @@
-feature,iqr_lower_bound,iqr_upper_bound,outlier_count
-credit_score,383.0,919.0,15
-age,14.0,62.0,359
-tenure,-3.0,13.0,0
-balance,-191466.36000000002,319110.60000000003,0
-products_number,-0.5,3.5,60
-estimated_salary,-96577.09624999999,296967.45375,0
